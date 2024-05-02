@@ -17,7 +17,10 @@ This code demonstrates how to use shaders in p5.js to create dynamic, interactiv
 
 
 ![An image of the coding technique](readmeImages/the coding technique.png)
+![An image of the coding technique](/Users/rice/Desktop/
+IDEA9103 creative coding/WEEK8/yche0084_9103_tut8/readmeImages/the coding technique.png)
  The code was sourced from website (https://openprocessing.org/)
+ This is the existing code
 [Link Text](https://openprocessing.org/sketch/2247346)
 
 
