@@ -5,9 +5,8 @@
 This images all from Pinterest
 
 ![An image of Blackhole paradox](readmeImages/Blackhole paradox2.jpeg)
-![An image of Blackhole paradox](https://www.pinterest.com.au/pin/1266706138873117/)
+![An image of Blackhole paradox](https://i.pinimg.com/564x/e0/7f/06/e07f06afa2daf598fc7db0839b272935.jpg)
 ![An image of Simulate the Universe](readmeImages/Simulate the Universe.jpeg)
-![An image of Simulate the Universe](https://www.pinterest.com.au/pin/637751997275519484/)
 
 The images respectively display the continuously flowing, shimmering black hole from the movie "Interstellar," and the use of foam to simulate the flowing state of the universe, conveying the vastness of the universe and the infinite variations of fate. Based on this theme, I would like to connect this concept with Pacita Abad's work "Wheels of fortune," to create an artwork composed of brightly colored, continuously flowing circles radiating outward from the center.
 
