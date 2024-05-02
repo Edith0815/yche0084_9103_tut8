@@ -15,14 +15,11 @@ The images respectively display the continuously flowing, shimmering black hole 
 
 This code demonstrates how to use shaders in p5.js to create dynamic, interactive visual effects. It includes a shader function that sets the active shader to the one previously loaded. The setUniform function then passes multiple variables to the shader.This aligns perfectly with my design vision. It helps me achieve an art effect that is full of dynamism and visual distortion. The patterns in the image consist of many overlapping and flowing shapes that seem to continuously twist and turn, and each shape has unique color changes from bright, saturated colors to subdued tones. 
 
+![alt text](image-1.png)
 
-![An image of the coding technique](readmeImages/the coding technique.png)
-![An image of the coding technique](/Users/rice/Desktop/
-IDEA9103 creative coding/WEEK8/yche0084_9103_tut8/readmeImages/the coding technique.png)
- The code was sourced from website (https://openprocessing.org/)
- This is the existing code
+The code was sourced from website 
+This is the existing code
 [Link Text](https://openprocessing.org/sketch/2247346)
-
 
 
 
